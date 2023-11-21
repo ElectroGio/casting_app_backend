@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Acanala.CastingApp.Application\Acanala.CastingApp.Application.csproj" />
+  </ItemGroup>
+
 </Project>

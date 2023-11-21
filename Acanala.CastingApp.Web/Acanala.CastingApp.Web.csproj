@@ -14,4 +14,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Acanala.CastingApp.Application\Acanala.CastingApp.Application.csproj" />
+    <ProjectReference Include="..\Acanala.CastingApp.Infrastructure\Acanala.CastingApp.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
