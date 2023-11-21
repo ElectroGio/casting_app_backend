@@ -1,0 +1,9 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+obj
+bin
+.vs
+/Dissau.DigisignCol.Web/.config
+/Dissau.DigisignCol.Web/Properties/PublishProfiles
+/Documentos/LuisAmigo/~$LUIS AMIGO CSV PROGRAMAS COmpleto.xlsx
